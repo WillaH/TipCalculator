@@ -14,4 +14,4 @@ Notes: Changed the design and language a bit more.
 
 Walk through:
 
-/Users/wjtrac/GitHub/TipCalculator/tips.gif
+http://willatracosas.com/images/tips.gif
